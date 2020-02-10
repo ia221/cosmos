@@ -1,0 +1,17 @@
+ENVI
+description = {MOLA DEM - 7.5 Arc Minute Pixels}
+samples = 720
+lines = 720
+bands = 4
+file type = ENVI Standard
+data type = 4
+interleave = bip
+sensor type = Unknown
+byte order = 0
+map info = {Geographic Lat/Lon, -0.250000, 0.250000, -179.875000, 89.875000, 0.250000, 0.250000, WGS-84, units=Degrees}
+wavelength units = Unknown
+band names = {
+ MOLA Elevation,
+MOLA Nmap X,
+MOLA Nmap Y,
+MOLA Nmap Z}

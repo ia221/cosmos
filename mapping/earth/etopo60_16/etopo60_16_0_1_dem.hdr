@@ -1,0 +1,17 @@
+ENVI
+description = {ETOPO1 DEM - 16 Arc Minute Pixels}
+samples = 675
+lines = 675
+bands = 4
+file type = ENVI Standard
+data type = 4
+interleave = bip
+sensor type = Unknown
+byte order = 0
+map info = {Geographic Lat/Lon, -0.266667, 0.266667, 0.133333, 89.866667, 0.266667, 0.266667, WGS-84, units=Degrees}
+wavelength units = Unknown
+band names = {
+ ETOPO1 Elevation,
+SRTM Nmap X,
+SRTM Nmap Y,
+SRTM Nmap Z}
