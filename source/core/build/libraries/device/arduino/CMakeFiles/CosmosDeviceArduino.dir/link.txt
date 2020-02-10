@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCosmosDeviceArduino.a  CMakeFiles/CosmosDeviceArduino.dir/arduino_lib.cpp.o
+/usr/bin/ranlib libCosmosDeviceArduino.a

@@ -1,0 +1,28 @@
+# Set the default behavior, in case people don't have core.autocrlf
+# set.
+* text=auto
+
+# this will make everyfile unix compatible (even on windows)
+# *.* eol=lf
+* eol=lf
+do_cmake eol=lf
+
+# Explicitly declare text files you want to always be normalized and
+# converted
+# to native line endings on checkout.
+*.cpp text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+*.docx binary
+*.pdf binary
+*.a binary
+*.gz binary
+*.7z binary
+*.zip binary
+*.fmp12 binary
+

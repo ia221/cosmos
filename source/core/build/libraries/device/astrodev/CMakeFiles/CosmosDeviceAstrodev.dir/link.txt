@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCosmosDeviceAstrodev.a  CMakeFiles/CosmosDeviceAstrodev.dir/astrodev_lib.cpp.o
+/usr/bin/ranlib libCosmosDeviceAstrodev.a
