@@ -1,0 +1,42 @@
+[
+    {
+        "agent": "post527",
+        "node": "node-arduino",
+        "title": "Post527 Temp",
+        "values": [
+            {
+                "data": "device_tsen_temp_001",
+                "logdata": 1,
+                "name": "temp",
+                "precision": 4,
+                "scale": 0.1,
+                "units": "F"
+            }
+        ],
+        "visible": 1,
+        "xLabel": "",
+        "xRange": 3600,
+        "yLabel": "",
+        "yRange": 2
+    },
+    {
+        "agent": "post518",
+        "node": "node-arduino",
+        "title": "Post518 Temp",
+        "values": [
+            {
+                "data": "device_tsen_temp_000",
+                "logdata": 1,
+                "name": "",
+                "precision": 2,
+                "scale": 1,
+                "units": ""
+            }
+        ],
+        "visible": 1,
+        "xLabel": "",
+        "xRange": 3600,
+        "yLabel": "",
+        "yRange": 2
+    }
+]

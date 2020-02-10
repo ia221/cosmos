@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gmanolak/cosmos/source/projects/template/cosmos-arduino/source/pipe_example.cpp
+string
+-
+iostream
+-
+cstdlib
+-
+cstdio
+-
+array
+-
+unistd.h
+-
+fstream
+-
+sys/types.h
+-
+stdio.h
+-
+stdlib.h
+-
+

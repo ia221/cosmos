@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -pedantic -std=c++11 -Wno-invalid-offsetof -pthread  -rdynamic CMakeFiles/pipe_example.dir/pipe_example.cpp.o  -o pipe_example 
